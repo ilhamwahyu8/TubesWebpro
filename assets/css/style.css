@@ -1,0 +1,72 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+ }
+
+ main {
+     padding-top: 80px;
+     padding-bottom: 40px;
+ }
+
+ h1 {
+    font-family: Helvetica;
+    font-size: 38px;
+    display: block;
+    color: #b4975f;
+    text-align: center;    
+ }
+
+.keterangan {
+    font-family: Helvetica;
+    font-size: 17px;
+    display: block;
+    text-align: center;    
+ }
+
+ hr{
+     color: #b4975f;
+     background-color: #b4975f;
+     width: 50px;
+     height: 3px;
+     margin: 10px auto;
+     border-width: 1px 0px 0px 0px;
+     clear: both;
+     display: block
+ }
+
+ .tebal{
+     text-align : center;
+ }
+
+ footer {
+     background-color: #3a3a3c;
+     color: #3a3a3c;
+ }
+
+ .footerIsi {
+     font-family: Helvetica;
+     font-size : 17px;
+     color: white;
+     
+ }
+
+ .footerIsi:hover{
+    color: white;
+    text-decoration: none;
+}
+
+#icon{
+    color: white;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #b4975f;
+}
+
+
+
